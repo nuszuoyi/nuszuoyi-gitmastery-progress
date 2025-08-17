@@ -43,5 +43,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755452001.91044,
+    "completed_at": 1755452003.090701,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
